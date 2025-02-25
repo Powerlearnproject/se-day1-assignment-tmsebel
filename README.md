@@ -35,6 +35,12 @@ Explain the different types of testing (unit, integration, system, and acceptanc
 
 
 Define prompt engineering and discuss its importance in interacting with AI models.
-
+Prompt engineering is the process of designing and refining input prompts to effectively interact with AI models .It involves crafting clera,specific and appropriate prompts to get desired responses from the AI.
+Importance of Prompt Engineering:
+. Improves accuracy: Well crafted prompts help the AI generate more relevant and accurate responses
+. Saves Time: Reduces the need for multiple iterations by providing clera instructions upfront
+. Customisation: It tailors the AI's responses to specific use cases
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
+Example of a vague prompt: "tell me about AI"
+Example of improved prompt: "Explain the key differences between supervised and unsupervised learning in artificial intelligence, and provide one real-world application for each." This prompt is more effective because it directs the AI to focus on a specific topic and asks it to provide both definitions and examples.
